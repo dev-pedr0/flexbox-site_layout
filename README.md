@@ -1,2 +1,2 @@
 # flexbox-site_layout
-Layout focusing on the use of flexbox 
+Layout using HTML 5 and CSS 3 focusing on the use of flexbox
